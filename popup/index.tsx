@@ -11,7 +11,7 @@ function IndexPopup() {
       <h2>
         Welcome to your{" "}
         <a href="https://www.plasmo.com" target="_blank">
-          Plasmo
+          URL Query Purifier (v0.0.1)
         </a>{" "}
         Extension!
       </h2>
